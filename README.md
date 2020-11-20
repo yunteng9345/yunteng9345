@@ -17,9 +17,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yunteng9345&repo=github-readme-stats&theme=material-palenight" />
 </a>    
+
 <a href="https://github.com/yunteng9345/yunteng9345.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yunteng9345&repo=yunteng9345.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yunteng9345&repo=blog.github.io&theme=material-palenight" />
 </a>
 
 <p> 
