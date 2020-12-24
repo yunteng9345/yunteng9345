@@ -14,4 +14,18 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yunteng9345&layout=compact&theme=material-palenight" />
 </a>
 
+# 这一天天的
 
+1. 泡枸杞
+2. 写代码
+3. 写文章
+## 我的技术博客
+
+- http://gopher-cn.icu
+
+## 我的微信
+
+<div align="left">
+<img src="https://www.gopher-cn.icu/images/wx.jpg" height="400" width="300" >
+ </div>
+ 
