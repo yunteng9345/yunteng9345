@@ -2,7 +2,7 @@
 ### 🔭 I’m currently working on XGD
 ### 🤔 I’m currently learning Golang & JVM
 ### ✨This is my blog http://gopher-cn.icu
-### 🙈wechat 
+### 🙈My wechat 
 <div align="left">
 <img src="https://www.gopher-cn.icu/images/wx.jpg" height="300" width="250" >
  </div>
