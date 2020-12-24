@@ -1,10 +1,10 @@
 ### Welocom to my home! 👋
 ### 🔭 I’m currently working on XGD
 ### 🤔 I’m currently learning Golang & JVM
-### This is my blog http://gopher-cn.icu
-### wechat 
+### ✨This is my blog http://gopher-cn.icu
+### 🙈wechat 
 <div align="left">
-<img src="https://www.gopher-cn.icu/images/wx.jpg" height="400" width="300" >
+<img src="https://www.gopher-cn.icu/images/wx.jpg" height="200" width="100" >
  </div>
  
  
