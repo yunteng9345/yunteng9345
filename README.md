@@ -4,7 +4,7 @@
 ### ✨This is my blog http://gopher-cn.icu
 ### 🙈wechat 
 <div align="left">
-<img src="https://www.gopher-cn.icu/images/wx.jpg" height="200" width="200" >
+<img src="https://www.gopher-cn.icu/images/wx.jpg" height="300" width="200" >
  </div>
  
  
