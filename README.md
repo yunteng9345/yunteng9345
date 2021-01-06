@@ -6,9 +6,6 @@
 <div align="left">
 <img src="https://www.gopher-cn.icu/images/wx.jpg" height="300" width="250" >
  </div>
- 
- - [x] 金庸作品集
-- [x] 逻辑思维（第五版）335/1589
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/yunteng9345/count.svg" />
