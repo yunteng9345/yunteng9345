@@ -2,10 +2,6 @@
 ### 🔭 I’m currently working on XGD
 ### 🤔 I’m currently learning Golang & JVM
 ### ✨This is my blog https://gopher-cn.icu
-### 🙈My wechat 
-<div align="left">
-<img src="https://www.gopher-cn.icu/images/wx.jpg" height="300" width="250" >
- </div>
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/yunteng9345/count.svg" />
