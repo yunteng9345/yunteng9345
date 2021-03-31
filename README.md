@@ -2,7 +2,6 @@
 ### 倒计时：100 day
 
 <p> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/yunteng9345/count.svg" />
 </p>
 
