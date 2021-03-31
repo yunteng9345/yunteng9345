@@ -1,7 +1,6 @@
-### Welocom to my home! 👋
-### 🔭 I’m currently working on XGD
-### 🤔 I’m currently learning Golang & JVM
-### ✨This is my blog https://gopher-cn.icu
+
+### 倒计时：100 day
+
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/yunteng9345/count.svg" />
